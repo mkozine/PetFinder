@@ -1,2 +1,2 @@
 # PetFinder
-Script for the Kaggle Petfinder competition
+Scripts for the Kaggle Petfinder competition
